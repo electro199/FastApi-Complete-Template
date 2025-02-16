@@ -20,7 +20,7 @@ A minimal and scalable FastAPI server template for building RESTful APIs quickly
 
 ### Clone the repository
 ```sh
-git clone https://github.com/your-username/fastapi-server-template.git
+git clone https://github.com/electro199/FastApi-Complete-Template
 cd fastapi-server-template
 ```
 
